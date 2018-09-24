@@ -5,7 +5,7 @@ Predicting sentiment from product reviews using graphlab
 - graphlab
 
 ## Used data set 
-[amazon_baby.gl](link to the data you upload)
+[amazon_baby.gl](https://github.com/Magho/Analyzing-Product-Sentiment/tree/master/amazon_baby.gl)
 
 # Algorithms used :
 -  logistic_classifier.
